@@ -1,6 +1,6 @@
 # Hello Spencer
 
-Simple Hello World style app for demonstrations
+Simple Hello World style app for demos
 
 ## To Modify
 
